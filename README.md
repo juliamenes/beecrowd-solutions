@@ -4,5 +4,9 @@ Repositório com minhas soluções dos exercícios do [Beecrowd](https://www.bee
 
 ## Progresso
 
-![Problemas Resolvidos](https://img.shields.io/badge/Resolvidos-222-green)
-![Submissões](https://img.shields.io/badge/Submissões-889-blue)
+| Linguagem | Resolvidos |
+|-----------|------------|
+| C         | 222        |
+
+> ✅ Problemas resolvidos: 222
+> 📬 Total de submissões: 889
