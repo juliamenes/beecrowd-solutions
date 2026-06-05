@@ -1,4 +1,4 @@
-# 🐝 Beecrowd Soluções 
+# Soluções do Beecrowd 🐝
 
 Repositório dedicado às minhas soluções dos exercícios do [Beecrowd](https://www.beecrowd.com.br).
 ---
